@@ -1,6 +1,7 @@
 from . import decorator
-from . import path
+from . import file
 
+__all__  = ['file', 'decorator']
 
 
 
